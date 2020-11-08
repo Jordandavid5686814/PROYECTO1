@@ -1,0 +1,36 @@
+<htm>
+<head>
+     <title>Mi Proyecto</title>
+</head>
+<body bigcolor="purple" text="black">
+      <h1> El Libertador</h1>
+      <p>"HACIA LA FORMACIÓN INTEGRAL DE BACHILLERES TÉCNICOS EN INFORMÁTICA POR LOS SENDEROS DE LA COMUNICACIÓNY LA CONVIVENCIA"
+          <h1> MISIÓN </h1>
+      El Colegio "El Libertador" I.E.D. educa en pro del crecimiento integral de estudiantes técnicos en informática generando en ellos un espiritu critico, propositivo y enprendedor que
+   les permita apropiarse de su entorno para trascender en los ámbitos académicos, sociales y laborales. </p>
+   <p>
+   <h2> VISIÓN </h2>
+   En el 2025 El Colegio "El Libertador" I.E.D. será reconocido como una institución líder en la formación de bachilleres técnicos en informática que se caractericen por su alto nivel de
+ desempeño en los ámbitos académicos, sociales y laborales.
+ </p>
+ 
+ <ing irc="images/dinosaur.jpg">
+ 
+ <ul>
+   <hl> METAS </h1>
+   <1i>El Colegio proyecta dinamizar en el estudiante procesos de pensamiento que le permitan construir competencias básicas, laborales en su formación académica de
+   acuerdo con sus intereses y necesidades, con visión de futuro. </1i>
+   <1i>El Colegio desarrollará en el estudiante actitudes de pertenencia y cuidado del entorno, que le permitan no solo vivir en armonía con la naturaleza, sino que le posibiliten
+   establecer nuevas relaciones con esta garantizando la dinámica de los diferentes ecosistemas naturales y construidos. Para lo que se requerirá un enfoque interdisciplinario en el que lo
+   técnico, científico y social tengan lugar.
+   </1i>
+   <1i>El Colegio facilitará al estudiante la construcción de competencias, habilidades y destrezas específicas y laborales que le permitan enfrentar con éxito los retos que le ofrece
+   el mundo moderno, en especial en el manejo de las competencias informáticas y el uso de estas en su desempeño personal, familiar y laboral.
+   </1i>
+ </u1>
+ 
+ <button> click para la pagína siguiente </button>
+ 
+ </body>
+ 
+ </html>
